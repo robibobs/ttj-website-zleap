@@ -26,4 +26,4 @@ The suppliers list is for information. We are in NO WAY connected or being paid 
 
 * [Pi Moroni (UK)](https://shop.pimoroni.com/)
 
-* [Banggood (China)(http://www.banggood.com) Banggood are excellent for cheap components and can supply Arduino Clone boards
+* [Banggood (China)](http://www.banggood.com) Banggood are excellent for cheap components and can supply Arduino Clone boards
