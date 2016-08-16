@@ -2,9 +2,9 @@
 
 To avoid confusion and information overload. This is a much reduced list compared to the old site. 
 
-* [Raspberry Pi!](www.raspberrypi.org)
+* [Raspberry Pi!](http://www.raspberrypi.org)
 
-* [Arduino](www.Arduino.cc)
+* [Arduino](http://www.Arduino.cc)
 
 * [BBC Micro Bit](https://www.microbit.co.uk/)
 
