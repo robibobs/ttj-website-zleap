@@ -30,6 +30,6 @@ The new TTJ site is going to be created using markdown.
 
 ####Online Learning
 
-http://www.codecademy.com/#!/exercises/0
+* [Code Academy](http://www.codecademy.com/#!/exercises/0)
 
 
