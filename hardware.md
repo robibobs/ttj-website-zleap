@@ -5,8 +5,6 @@ To avoid confusion and information overload. This is a much reduced list compare
 #### Computers 
 
 * [Raspberry Pi!](http://www.raspberrypi.org)
-	
-	* test
 
 * [BBC Micro Bit](https://www.microbit.co.uk/)
 
