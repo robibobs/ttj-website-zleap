@@ -17,3 +17,9 @@ To avoid confusion and information overload. This is a much reduced list compare
 
 
 ####Suppliers
+
+* [ModMyPi (UK)](https://www.modmypi.com/)
+
+* [Pi Moroni (UK)](https://shop.pimoroni.com/)
+
+* [Banggood (China)(http://www.banggood.com) Banggood are excellent for cheap components and can supply Arduino Clone boards
