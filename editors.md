@@ -9,7 +9,7 @@ A good editor is essential for developing software projects,  it should have the
 * [Geany Editor](http://www.geany.org/)
 * [nano](https://www.nano-editor.org/)
 * [joe](http://joe-editor.sourceforge.net/)
-	*[joe text editor cheat sheet](https://github.com/zleap/joetexted)
+	* [joe text editor cheat sheet](https://github.com/zleap/joetexted)
 
 ####IDEs
 * [Eclipise IDE](http://www.eclipse.org/ide/)
