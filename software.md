@@ -7,7 +7,7 @@ Chosing what programming language to learn is very much down to personal experie
 
 ####Beginners
 
-* [Scratch][http://www.scratch.mit.edu]
+* [Scratch](http://www.scratch.mit.edu)
 
 * [Code.org Home of Hour of code](http://www.code.org/)
 
