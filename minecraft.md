@@ -5,7 +5,7 @@ Minecraft is a very popular game,  it is also hackable, in that mods can be crea
 
 * [Minecraft-pi resources](http://www.stuffaboutcode.com/p/minecraft.html)
 
-If you have Minecraft on a desktop (PC or Mac) you can create your own mods.  Matthew is putting together some information on this.
+If you have Minecraft on a desktop (PC or Mac) you can create your own mods.  Matthew is putting together some information on this.  Please review the following related resources you will need for this. 
 
 * [Minecraft Forge](http://files.minecraftforge.net/)
 * [Eclipse IDE](http://www.eclipse.org/ide/)

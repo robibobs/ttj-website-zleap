@@ -7,6 +7,9 @@ The Torbay Tech Jam (TTJ) has a range of resources for visitors to use
 * Laptops
 * Monitors 
 * Keyboards & Mice
+* Wire
+* Breadboads
+* Components 
 
 However you are welcome to bring your own with you.  Where possible please use the multiway plug sockets provided.
 
