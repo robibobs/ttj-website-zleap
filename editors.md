@@ -22,3 +22,7 @@ A good editor is essential for developing software projects,  it should have the
 	*[Arduino IDE](https://www.arduino.cc/en/Main/Software)
 	*[Arduino Create Cloud / Web Editor](https://create.arduino.cc/editor)
 
+####hints and misc information
+
+* [Indendation](http://dmitryfrank.com/articles/indent_with_tabs_align_with_spaces)
+
