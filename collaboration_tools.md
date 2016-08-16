@@ -1,0 +1,12 @@
+### Collaboration tools
+
+One of the important skills you need to learn with projects is collaboration and team work. There are tools to help with this,  notably from the free software world there is:-
+
+* Git
+
+__Note:__ This is a command line tool for working with repository sites such as 
+
+* [Github](https://github.com/)
+* [Gitorious](http://www.gitorious.com/) 
+
+Git has many powerful features, designed to make life easier for developers, even though there IS a learning curve to learn how to use it. 
