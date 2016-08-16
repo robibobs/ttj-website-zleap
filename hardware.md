@@ -2,7 +2,7 @@
 
 To avoid confusion and information overload. This is a much reduced list compared to the old site. 
 
-####Computers 
+#### Computers 
 
 * [Raspberry Pi!](http://www.raspberrypi.org)
 	
@@ -13,12 +13,12 @@ To avoid confusion and information overload. This is a much reduced list compare
 * [CHIP $9 Computer](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer/video_share)
 
 
-####Microcontrollers
+#### Microcontrollers
 
 * [Arduino](http://www.Arduino.cc)
 
 
-####Suppliers
+#### Suppliers
 
 The suppliers list is for information. We are in NO WAY connected or being paid to list these suppliers,  we just use them.
 

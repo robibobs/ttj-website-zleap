@@ -3,7 +3,8 @@
 One of the important skills you need to learn with projects is collaboration and team work. There are tools to help with this,  notably from the free software world there is:-
 
 * Git
-* [Pro Git Book](https://git-scm.com/book/en/v2)
+	* [Git Clients](https://git-scm.com/download/)
+	* [Pro Git Book](https://git-scm.com/book/en/v2)
 
 _Note:_ This is a command line tool for working with repository sites such as 
 

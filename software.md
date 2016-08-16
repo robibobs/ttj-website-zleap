@@ -5,30 +5,32 @@ To avoid confusion and information overload. This is a much reduced list compare
 Chosing what programming language to learn is very much down to personal experience and other factors, for example what you are trying to write.
 
 
-####Beginners
+#### Beginners
 
 * [Scratch](http://www.scratch.mit.edu)
 
 * [Code.org Home of Hour of code](http://www.code.org/)
 
-####Text Based Languages
+#### Text Based Languages
+
+* [Sonic-Pi](http://sonic-pi.net/) - For Raspberry Pi users.
 
 * [Python](https://www.python.org/)
 
 
 
-####Web based Languages for creating websites
+#### Web based Languages for creating websites
 
 *[W3Schools (HTML / CSS / JAVA SCRIPT / JQUERY / PHP / SQL) [http://www.w3schools.com/]
 
-####Markdown
+#### Markdown
 
 The new TTJ site is going to be created using markdown.
 
 * [Markdown Tutorial](http://www.markdowntutorial.com/)
 
 
-####Online Learning
+#### Online Learning
 
 * [Code Academy](http://www.codecademy.com/#!/exercises/0)
 
