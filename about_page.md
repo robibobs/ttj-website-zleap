@@ -1,4 +1,4 @@
-### About Torbay Teach Jam      
+### About Torbay Tech Jam      
 
 The Torbay Tech jam is designed to be a fun, informal and family friendly event.   We hope to inspire 
 people,  especially children and young people to take an interest, not just in coding, but also related STEM (Science, Technology, Engineering and Maths) Subjects.

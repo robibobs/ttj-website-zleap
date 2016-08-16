@@ -19,7 +19,9 @@ Chosing what programming language to learn is very much down to personal experie
 
 * [Python](https://www.python.org/)
 
+* [Ruby]
 
+* 
 
 #### Web based Languages for creating websites
 
