@@ -1,4 +1,4 @@
-###Location###
+### Location
 
   Paignton Library and Information Centre  
   Great Western Road  
