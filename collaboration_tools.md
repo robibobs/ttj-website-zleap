@@ -10,5 +10,6 @@ _Note:_ This is a command line tool for working with repository sites such as
 
 * [Github](https://github.com/)
 * [Gitorious](http://www.gitorious.com/) 
+* [NotABug](https://notabug.org/)
 
 Git has many powerful features, designed to make life easier for developers, even though there _is_ a learning curve to learn how to use it. 
