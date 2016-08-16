@@ -5,6 +5,8 @@ To avoid confusion and information overload. This is a much reduced list compare
 ####Computers 
 
 * [Raspberry Pi!](http://www.raspberrypi.org)
+	
+	* test
 
 * [BBC Micro Bit](https://www.microbit.co.uk/)
 
@@ -17,6 +19,8 @@ To avoid confusion and information overload. This is a much reduced list compare
 
 
 ####Suppliers
+
+The suppliers list is for information. We are in NO WAY connected or being paid to list these suppliers,  we just use them.
 
 * [ModMyPi (UK)](https://www.modmypi.com/)
 
