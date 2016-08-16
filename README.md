@@ -1,4 +1,1 @@
-# ttj_website_development
-development files for new torbay tech jam website 
-
-## This is for developing pages for the new ttj website.   
+# This repository is for writing pages for the new Torbay Tech Jam website
