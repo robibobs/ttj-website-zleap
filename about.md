@@ -9,6 +9,7 @@ We have several resources available for use at the Jams, including:
 * Raspberry Pi’s
 * Jumper wire
 * Breadboards
+
 As well as a few electronic components for interfacing with.
  
 
