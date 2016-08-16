@@ -8,7 +8,7 @@ We have resources such as :-
 * monitors
 * keyboards / mice
 * Raspberry Pi's 
-	* please see resources.md for a full list
+	* please see [resources](resources.md) page for a full list
 
 These are for visitors to use.  You are. however welcome to bring your own kit, including laptops, pis, Arduinos. 
 
