@@ -1,6 +1,6 @@
 ### Software tools
 
-This page is designed to list some useful tools that we find useful.  
+This page is designed to list some tools that we find useful:
 
 ####Linux
 
