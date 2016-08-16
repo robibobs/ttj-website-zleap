@@ -8,7 +8,7 @@
 
 * Saturday December 10th
 
-**Dates for 2017**
+###Dates for 2017###
 
 * Saturday January 14th
 
