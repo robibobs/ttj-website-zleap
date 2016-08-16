@@ -11,7 +11,7 @@ Chosing what programming language to learn is very much down to personal experie
 
 * [Code.org Home of Hour of code](http://www.code.org/)
 
-* [Code club] (https://www.codeclub.org.uk/) - After School club for 7 - 11 year olds to learn coding. please ask your teacher or youth worker, or other key worker for more information.  Lets get a few of these in Torbay.
+* [Code club] (https://www.codeclub.org.uk/) - After School club for 9 - 11 year olds to learn coding. please ask your teacher or youth worker, or other key worker for more information.  Lets get a few of these in Torbay.
 
 #### Text Based Languages
 
