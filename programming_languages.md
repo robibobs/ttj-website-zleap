@@ -1,4 +1,4 @@
-### Software
+### Programming Languages
 
 To avoid confusion and information overload. This is a much reduced list compared to the old site. 
 
@@ -22,8 +22,6 @@ Chosing what programming language to learn is very much down to personal experie
 * [Python](https://www.python.org/)
 
 * [Ruby](https://www.ruby-lang.org/en/)
-
-* 
 
 #### Web based Languages for creating websites
 
