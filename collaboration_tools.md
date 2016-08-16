@@ -13,3 +13,5 @@ _Note:_ This is a command line tool for working with repository sites such as
 * [NotABug](https://notabug.org/)
 
 Git has many powerful features, designed to make life easier for developers, even though there _is_ a learning curve to learn how to use it. 
+
+* [NotaBug](https://notabug.org/) free code hosting
