@@ -31,6 +31,9 @@ Once you have determined the OS version on a Linux system, it may help to know w
 `lsusb` - list usb
 `lshw` - list hardware
 `lspci` - list pci devices
+'lsblk' - list block devices
+'lsmod' - list modules
+'lscpu' - cpu (processor) Information
 
 On Ubuntu deried distributions, `inxi` can access a large amount of information, including network devices, graphics devices, and more.
 
