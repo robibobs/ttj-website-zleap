@@ -23,6 +23,10 @@ Chosing what programming language to learn is very much down to personal experie
 
 * [Ruby](https://www.ruby-lang.org/en/)
 
+* [Scheme](http://schemers.org/)
+	* [Book Scheme programming language 3rd Edition](http://www.scheme.com/tspl3/)
+	* [Chicken](http://www.call-cc.org/)
+
 #### Web based Languages for creating websites
 
 * [W3Schools (HTML / CSS / JAVA SCRIPT / JQUERY / PHP / SQL)] (http://www.w3schools.com/)
