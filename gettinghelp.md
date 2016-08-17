@@ -1,66 +1,53 @@
 ### Getting help
 
-When doing any tasks,  asking for requirng help is inevitable.  While there are a wide range of forums to ask for help there are a few things YOU can do in order to help your self and help the community or person you're asking.
+When doing any tasks, requiring help is inevitable. While there are a wide range of forums to ask for help, there are a few things __you__ can do in order to help, not just yourself, but the community or person you're asking.
 
+Firstly, know your system; what OS are you running?  It may not be a simple case of Linux, OSX or Windows - forums need to know exactly what you are running; for example with Linux, what distribution you are running, and for OSX or Windows what version and release - for example Windows 7 Professional, or OSX Yosemite. Being able to identify this is really important.
 
-Firstly know your system, by this I mean what OS are you running,  It may not be a simple case of 
+The same goes for the actual software you are having problems with; what version are you running?
 
-* Linux, OSX, Windows
+Listed below are methods to determine what distribution and/or version of  your operating system you are running.
 
-Forums need to know what you are running so in the case of Linux, peraps what distribution you are running, for OSX which version and for windows again what version and release e.g Windows 7 home, starter, professional.
+##### Linux
 
-Being able to identify this is really important.
+GNU / Linux has a built in documentation system in the form of man (manual) pages. These can be accessed with the `man` command, for example `man ls` 
 
-The same goes for the actual software you are having problems, with what version are you running.
+You can use commands such as `uname -a`
 
+Which, for example, may return
 
-Listed below is how to possible determnine what you are running
+`Linux CoreDuo 3.19.0-32-generic #37~14.04.1-Ubuntu SMP Thu Oct 22 09:41:40 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux`
 
-* GNU / Linux
-
-GNU / Linux has a built in documentation system in the form of man (manual) pages,  these can be accessed with man command for example 
->man ls
-
-
-Commands such as 
-
->uname -a
->Linux CoreDuo 3.19.0-32-generic #37~14.04.1-Ubuntu SMP Thu Oct 22 09:41:40 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
-
-Along with
-
-lsb_release -a
-
-Can help determine specific version being run
-
+You can also use `lsb_release -a` which can help determine similar information, but in a more user-friendly form, for example:
+```
 >Distributor ID:	LinuxMint
 >Description:	Linux Mint 17.3 Rosa
 >Release:	17.3
 >Codename:	rosa
-
+```
 
 Once you have determined the OS version on a Linux system, it may help to know what hardware you have
 
-lsusb - list usb
-lshw - list hardware
-lspci - list pci devices
+`lsusb` - list usb
+`lshw` - list hardware
+`lspci` - list pci devices
 
-inxi (on Ubuntu derived distributions)
+On Ubuntu deried distributions, `inxi` can access a large amount of information, including network devices, graphics devices, and more.
 
-inxi can access a large amount of information, from network devices to graphics devices
+To determine the version of a particular package on Linux you can usually use a command line switch such as `--version`, for example:
 
-With Linux, to determine the version of a particular package you can usually use a command line switch such as :
+```
+> ls --version
+ls (GNU coreutils) 8.21
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+```
 
->ls --version
->ls (GNU coreutils) 8.21
->Copyright (C) 2013 Free Software Foundation, Inc.
->License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
->This is free software: you are free to change and redistribute it.
->There is NO WARRANTY, to the extent permitted by law.
+##### OSX
 
 
+##### Windows
 
-* OSX
-
-* Windows
-
+Hold the Windows modifier key and press R to open the Run dialog, and type `winver`. This will open a dialog showing your exact version and build of Windows.
