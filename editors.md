@@ -19,8 +19,8 @@ A good editor is essential for developing software projects,  it should have the
 
 
 * Arduino Software
-	*[Arduino IDE](https://www.arduino.cc/en/Main/Software)
-	*[Arduino Create Cloud / Web Editor](https://create.arduino.cc/editor)
+	* [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+	* [Arduino Create Cloud / Web Editor](https://create.arduino.cc/editor)
 
 #### Hints and Misc Information
 
