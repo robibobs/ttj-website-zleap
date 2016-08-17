@@ -1,6 +1,6 @@
 ### Dates for 2016
 
- - Saturday September 17th
+ - Saturday September 17th (this has been moved to the third Saturday because of Software freedom day)
 
  - Saturday October 8th
 
