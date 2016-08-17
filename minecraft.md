@@ -4,6 +4,7 @@ Minecraft is a very popular game. It is also hackable, in that mods can be creat
 
 
 * [Minecraft-Pi resources](http://www.stuffaboutcode.com/p/minecraft.html)
+* [MagPi - Minecraft Pi hacking book](https://www.raspberrypi.org/magpi/issues/essentials-minecraft-v1/)
 
 If you have Minecraft on a desktop (PC or Mac) you can create your own mods. We are putting together some information on this - please see [Minecraft Modding](minecraft_modding.md) - but there are many tutorials on the internet.  Please review the following related resources you will need for this. 
 
