@@ -29,3 +29,4 @@ The suppliers list is for information. We are in NO WAY connected or being paid 
 #### Other info
 
 * [Linux File systems](http://fossbytes.com/linux-filesystems-explained-ext234-xfs-btrfs-zfs/)
+* [Overview of FAT, HPFS, and NTFS File Systems](https://support.microsoft.com/en-us/kb/100108)
