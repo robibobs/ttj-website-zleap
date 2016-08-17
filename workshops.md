@@ -13,6 +13,7 @@ There will be a charge of £15  for this to cover all parts,
    * Breadboard
    * Wires (x5)
    * LED matrix and controller board
+   	
 
 Once built you can use the Arduino IDE software to update the message on the display,  add further 8x8 matrix displays or use the kit for other projects.  You could perhaps add a temperature sensor. 
 
