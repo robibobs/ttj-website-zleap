@@ -35,7 +35,13 @@ Can help determine specific version being run
 >Codename:	rosa
 
 
+Once you have determined the OS version on a Linux system, it may help to know what hardware you have
 
+lsusb - list usb
+lshw - list hardware
+lspci - list pci devices
+
+inxi (on Ubuntu derived distributions)
 
 * OSX
 
