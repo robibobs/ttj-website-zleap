@@ -1,19 +1,19 @@
 ### Hardware
 
-To avoid confusion and information overload. This is a much reduced list compared to the old site. 
+Please noet that to avoid confusion and information overload, this is a much reduced list compared to the old site. 
 
 #### Computers 
 
-* [Raspberry Pi!](http://www.raspberrypi.org)
+* [Raspberry Pi](http://www.raspberrypi.org)
 
 * [BBC Micro Bit](https://www.microbit.co.uk/)
 
-* [CHIP $9 Computer](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer/video_share)
+* [CHIP $9 Computer](http://getchip.com)
 
 
 #### Microcontrollers
 
-* [Arduino](http://www.Arduino.cc)
+* [Arduino](http://www.arduino.cc)
 
 
 #### Suppliers
