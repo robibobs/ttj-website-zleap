@@ -16,7 +16,11 @@ The same goes for the actual software you are having problems, with what version
 
 Listed below is how to possible determnine what you are running
 
-* Linux
+* GNU / Linux
+
+GNU / Linux has a built in documentation system in the form of man (manual) pages,  these can be accessed with man command for example 
+>man ls
+
 
 Commands such as 
 
@@ -42,6 +46,19 @@ lshw - list hardware
 lspci - list pci devices
 
 inxi (on Ubuntu derived distributions)
+
+inxi can access a large amount of information, from network devices to graphics devices
+
+With Linux, to determine the version of a particular package you can usually use a command line switch such as :
+
+>ls --version
+>ls (GNU coreutils) 8.21
+>Copyright (C) 2013 Free Software Foundation, Inc.
+>License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+>This is free software: you are free to change and redistribute it.
+>There is NO WARRANTY, to the extent permitted by law.
+
+
 
 * OSX
 
