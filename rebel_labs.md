@@ -1,17 +1,15 @@
-###Rebel-Labs
+### Rebel-Labs
 
-We are currently in talks (via irc) with Kevin from Rebel labs with regard to linking up between Rebel labs and the Tech jam and hosting a rebel makers event along side the tech jam.  They do very similar activities to what we do, plus they share the same open to all and collaborative working ethos that the tech jam does.  Please see their website for more information. 
+We are currently in talks (via IRC) with Kevin from Rebel Labs with regard to linking up between Rebel Labs and the Tech jam and hosting a rebel makers event along side the tech jam. They do very similar activities to what we do, plus they share the same open to all and collaborative working ethos that the tech jam does. Please [see their website](http://www.rebellabs.co.uk) for more information.
 
-[Rebel-labs](rebellabs.co.uk)
+This is early days yet.
 
-This is early days yet. 
+Rebel Labs are interested in expanding. It would be great if more venues in Torbay could host them, If any organisations would be interested in collaborating with Rebel Labs and hosting a Rebel Makers event. Please get in touch with them directly, and let's see what happens. 
 
-Rebel-labs are interested in expanding. It would be great if more venues in Torbay could host them, If any organisations would be interested in collaborating with Rebel labs and hosting a rebel makers event. Please get in touch with them directly,  and lets see what happens. 
-
-The main requirement is that:-
-* There are at least two members of staff who are _DBS checked_ who can oversee any rebel labs branded event
-* The event is open to _All Ages_ and abilities
-* The event is _free_ to attend
+The main requirements are that:
+* There are at least two members of staff who are __DBS checked__ who can oversee any Rebel Labs branded event
+* The event is open to __all ages__ and abilities
+* The event is __free__ to attend
 
 
 
