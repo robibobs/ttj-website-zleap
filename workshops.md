@@ -20,7 +20,7 @@ To help you get started The nano will initially be pre-programmed, but the sourc
 
 Tom has put together a presentation to explain how the project works and how to build.
 
-If you’re interested please e-mail info AT torbaytechjam DOT org DOT uk or speak to Tom Brough at the jam. 
+If you’re interested please e-mail >info [AT] torbaytechjam [DOT] org [DOT] uk< or speak to Tom Brough at the jam. 
 
 Other workshops include :
 
