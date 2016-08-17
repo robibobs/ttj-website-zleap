@@ -27,6 +27,10 @@ Chosing what programming language to learn is very much down to personal experie
 	* [Book Scheme programming language 3rd Edition](http://www.scheme.com/tspl3/)
 	* [Chicken](http://www.call-cc.org/)
 
+
+#### Statistical Computing
+* [R Language](https://www.r-project.org/)
+
 #### Web based Languages for creating websites
 
 * [W3Schools (HTML / CSS / JAVA SCRIPT / JQUERY / PHP / SQL)] (http://www.w3schools.com/)
@@ -42,5 +46,10 @@ The new TTJ site is going to be created using markdown.
 #### Online Learning
 
 * [Code Academy](http://www.codecademy.com/#!/exercises/0)
+
+#### E-Books etc
+* [PackT Publishing](https://www.packtpub.com/packt/offers/free-learning)
+* [Free e-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)
+
 
 
