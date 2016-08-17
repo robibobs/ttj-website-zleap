@@ -1,8 +1,12 @@
 ### IRC
 Outside of Jams, you can contact us via IRC (Internet Relay Chat). We are very active on vktec's IRC network:
+
 Address: irc.vktec.co.uk
+
 Port: 6667
+
 Channels: #chat, #torbaytechjam, #vktec-irc
+
 
 Alternatively, if you are new to IRC and don't understand this or don't have access to an IRC client, you can simply navigate to [https://kiwiirc.com/client/irc.vktec.co.uk/#chat](https://kiwiirc.com/client/irc.vktec.co.uk/#chat), and you simply need to type a nickname - everything is configured for you!
 
